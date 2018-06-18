@@ -1,6 +1,6 @@
 # -Splash-Award-2018-Team-Cygnus
 
-This is a project for Splash awrd 2018
+This is a project for Splash award 2018
 **Splash Award 2018 Stage B codes submission**
 Please download and open the zip file to view our entire project folder. 
 Please see MainActivity.java for our codes, please also note that data has been prefixed.
