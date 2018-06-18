@@ -7,4 +7,4 @@ Please see MainActivity.java for our codes, please also note that data has been 
 File pathway in the project folder is: SA Boiler Plate Blank -> ap p-> src -> main -> java -> sg -> gowild -> sademo
 
 If you wish to see try our AI or view the project entirely, please download, unzip the file, open on android studio and run it.
-**Please note that this is only a prototype of what we will be presenting, it is not polished to perfection**
+**Please note that this is only a prototype of what we will be presenting, it is not polished to perfection and not connected to a database currently**
