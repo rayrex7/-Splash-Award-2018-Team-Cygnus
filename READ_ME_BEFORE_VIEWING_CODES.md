@@ -4,9 +4,9 @@ This is a project for Splash award 2018
 
 **Splash Award 2018 Stage B codes submission**
 
-Please download and open the zip file to view our entire project folder. 
+Please download and open the zip file to view our entire project folder and codes. 
 
-Please see MainActivity.java for our codes, please also note that data has been prefixed.
+Please see MainActivity.java for our codes for our AI and its function, please also note that data has been prefixed.
 File pathway in the project folder is: SA Boiler Plate Blank -> ap p-> src -> main -> java -> sg -> gowild -> sademo
 
 
